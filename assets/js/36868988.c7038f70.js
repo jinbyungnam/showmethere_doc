@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshowmethere=self.webpackChunkshowmethere||[]).push([[5021],{4104:e=>{e.exports=JSON.parse('{"permalink":"/showmethere_doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
